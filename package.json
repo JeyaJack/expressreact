@@ -1,0 +1,27 @@
+{
+  "name": "expressreact",
+  "version": "1.0.0",
+  "description": "express server side  react client side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeyaJack/expressreact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeyaJack/expressreact/issues"
+  },
+  "homepage": "https://github.com/JeyaJack/expressreact#readme",
+  "dependencies": {
+    "concurrently": "^5.3.0",
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1",
+    "g": "^2.0.1",
+    "yarn": "^1.22.5"
+  }
+}
